@@ -11,7 +11,7 @@ var HomeComponent = React.createClass({
     return (
       <div>
         <h2>Home</h2>
-        <img className="home-headshot" src="../../dist/images/jr-headshot.jpg" />
+        <img className="home-headshot" src="../dist/images/jr-headshot.jpg" />
       </div>
     );
   }
